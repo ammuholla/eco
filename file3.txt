@@ -3,3 +3,4 @@ a. badminton
 b. boxing
 c. archery
 d. athletics
+e. swimming
